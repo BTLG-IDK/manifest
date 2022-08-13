@@ -93,7 +93,7 @@
 
   <!-- Vendor -->
   <project path="vendor/bootleggers" name="vendor_bootleggers" remote="bootleggers-lab" />
-  <project path="vendor/google/gms" name="Bootleggers-Brokenlab/vendor_google_gms" remote="gitlab" depth="1" revision="sambunimbo"/>
+  <project path="vendor/gms" name="Pyrtle93/vendor_gms" remote="gitlab" depth="1" revision="btlg"/>
   <project path="vendor/support" name="vendor_support" remote="bootleggers" />
 
 </manifest>
